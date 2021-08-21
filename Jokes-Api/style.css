@@ -1,0 +1,28 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} 
+.content{
+    padding: 10px;
+    width: 60%;
+    height: 30%;
+    border:2px dashed #33413e;
+}
+.joke{
+    font-size: 22px;
+}
+.btn{
+    width: 90px;
+    height: 30px;
+    background-color: aquamarine;
+    position: fixed;
+    margin-top: 10%;
+    margin-left: 50%;
+}
